@@ -1,12 +1,12 @@
 # Compose Multiplatform Application
 
 ## Preview
-
 ### Android
-![Screenshot from 2023-11-17 22-08-54](https://github.com/samehesmael277/Tasks-KMP/assets/91541580/974e2128-7c45-445a-b8bf-60f2e41106d7)
+![photo_2023-11-17_22-17-45](https://github.com/samehesmael277/Tasks-KMP/assets/91541580/d513e036-d080-4278-84d3-ce72e003a56f)
 
 ### Desktop
-![photo_2023-11-17_22-17-45](https://github.com/samehesmael277/Tasks-KMP/assets/91541580/d513e036-d080-4278-84d3-ce72e003a56f)
+![Screenshot from 2023-11-17 22-08-54](https://github.com/samehesmael277/Tasks-KMP/assets/91541580/974e2128-7c45-445a-b8bf-60f2e41106d7)
+
 
 <br>
 
