@@ -1,0 +1,13 @@
+CREATE TABLE TaskTable (
+id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+title TEXT NOT NULL
+);
+
+getTasks:
+SELECT * FROM TaskTable;
+
+addTask:
+INSERT OR REPLACE INTO TaskTable(id, title) VALUES (?, ?);
+
+deleteTask:
+DELETE FROM TaskTable WHERE id= :id;
