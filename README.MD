@@ -7,6 +7,13 @@
 ### Desktop
 ![Screenshot from 2023-11-17 22-08-54](https://github.com/samehesmael277/Tasks-KMP/assets/91541580/974e2128-7c45-445a-b8bf-60f2e41106d7)
 
+<br>
+
+## Built with:
+- **Kotlin**
+- **Kotlinx Coroutines**
+- **Moko MVVM**
+- **SQLDelight**
 
 <br>
 
