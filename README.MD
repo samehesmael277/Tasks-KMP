@@ -11,6 +11,8 @@
 
 ## Built with:
 - **Kotlin**
+- **Kotlin Multiplatform**
+- **Compose**
 - **Kotlinx Coroutines**
 - **Moko MVVM**
 - **SQLDelight**
